@@ -1,0 +1,2 @@
+from utils import split_file
+split_file("myfile.txt")
